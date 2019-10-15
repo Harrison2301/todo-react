@@ -21,4 +21,4 @@ const linkStyle = {
     textDecoration: 'none'
 }
 
-export default Header;
+export default Header; 
